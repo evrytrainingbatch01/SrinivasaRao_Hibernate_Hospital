@@ -1,0 +1,33 @@
+mysql>
+mysql> select * from testform;
++-----------+------+-------------+-----------+---------------+-----------+
+| NAME      | AGE  | BLOODGROUP  | CHECKUP   | DOCTORNAME    | TESTRECOM |
++-----------+------+-------------+-----------+---------------+-----------+
+| Ankit     |   29 | A positive  | IP        | Swaroop       | Urine     |
+| Chandu    |   22 | k positive  | IP        | Indra         | Urine     |
+| Gunda     |   26 | O positive  | IP        | Srinivasa Rao | Blood     |
+| Jagan     |   35 | O positive  | Emergency | Srinivasa Rao | Blood     |
+| Janardhan |   23 | B Negative  | Emergency | Indra         | Urine     |
+| John      |   45 | A Negative  | IP        | Manoj         | Lungs     |
+| Keerthi   |   25 | B negative  | Emergency | Srinivasa Rao | Blood     |
+| kiran     |   27 | AB negative | NULL      | Srinivasa Rao | Blood     |
+| Krishna   |   87 | A positive  | IP        | Indra         | Brain     |
+| Madhava   |   34 | kl positive | Emergency | Srinivasa Rao | Blood     |
+| manju     |   34 | AB negative | IP        | Srinivasa Rao | Blood     |
+| Manoj     |   45 | B negative  | IP        | Swaroop       | Urine     |
+| Moin      |   28 | AB Negative | IP        | Indra         | Urine     |
+| Murali    |   23 | c positive  | IP        | Srinivasa Rao | Blood     |
+| Murthi    |    9 | B positive  | IP        | Manoj         | Brain     |
+| naidu     |   24 | B negative  | Emergency | Srinivasa Rao | Blood     |
+| Ramu      |   25 | O positive  | Emergency | Indra         | Urine     |
+| roja      |   18 | B positive  | Emergency | Srinivasa Rao | Blood     |
+| Shadik    |   34 | AB positive | Emergency | Manoj         | Urine     |
+| Swaroop   |   25 | o negative  | Emergency | Indra         | Lungs     |
+| Vinay     |   34 | B positive  | Emergency | Indra         | Brain     |
+| Vishnu    |   12 | c negative  | IP        | Srinivasa Rao | Blood     |
+| xyz       |   13 | B positive  | IP        | Srinivasa Rao | Blood     |
++-----------+------+-------------+-----------+---------------+-----------+
+23 rows in set (0.00 sec)
+
+mysql>
+mysql>
